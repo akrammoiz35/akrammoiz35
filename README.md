@@ -2,7 +2,7 @@
 👀 I’m interested in Data Analytics, Machine Learning & Data Science.
 🌱 I’m currently learning Machine Learning, Data Analysis and Data Science.
 💞️ I’m looking to collaborate on Data Science, Data Analytics.
-- 📫 How to reach me ...mohdakrammoiz@gmail.com
+- 📫 How to reach me mohdakrammoiz@gmail.com
 - www.linkedin.com/in/akram-moiz
 - 😄 Pronouns: ...He/Him
 
