@@ -1,7 +1,7 @@
 👋 Hi, I’m @Mohammed Akram Moiz
 👀 I’m interested in Data Analytics, Machine Learning & Data Science.
 🌱 I’m currently learning Machine Learning, Data Analysis and Data Science.
-💞️ I’m looking to collaborate on Data Science, Data Analytics.
+💞️ I’m looking to collaborate on Data Science, Machine Learning.
 - 📫 How to reach me mohdakrammoiz@gmail.com
 - www.linkedin.com/in/akram-moiz
 - 😄 Pronouns: ...He/Him
